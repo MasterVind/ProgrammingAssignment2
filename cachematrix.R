@@ -24,7 +24,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Calculate the inverse of a specified matrix and return the inverse matrix.
+## Function: Calculate the inverse of a specified matrix and return the inverse matrix.
 ## Input: a list created by function of makeCacheMatrix
 ## Output: an inverse of matrix strored in list x.
 
